@@ -14,4 +14,5 @@
 ### Combination (Over and Under) Sampling
 #### Precision in finding likely low risk is high and finding likely high risk is low. Sensitivity in finding true high risk is high at 70% and low risk at 57% . F1 score low for high risk and high for low risk, with pronounced imbalance. Balance accuracy score may seem high but it is lower than what is suggested.
 
-### Based on my interpretation of the results, I would recommend use of Combination (Over and Under) Sampling.  I have chossen this analysis due to its high precision in identifying low risk and Moderate Seneitivity in finding High risk.
+### Recommendation
+#### Based on my interpretation of the results, I would recommend use of Combination (Over and Under) Sampling.  I have chossen this analysis due to its high precision in identifying low risk and Moderate Seneitivity in finding High risk.
